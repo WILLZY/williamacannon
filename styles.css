@@ -1,7 +1,7 @@
 <style>
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
+    margin: 40px;
     padding: 0;
     background-color: #fff;
     color: #000;
@@ -9,13 +9,14 @@ body {
 
 header {
     text-align: center;
-    padding: 20px;
+    padding: 30px;
     background-color: #f8f8f8;
+    border-bottom: 1px solid #ddd;
 }
 
 h1 {
-    font-size: 1.8em;
-    margin: 10px 0;
+    font-size: 2em;
+    margin: 15px 0;
 }
 
 nav ul {
@@ -24,7 +25,7 @@ nav ul {
     margin: 0;
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 20px;
 }
 
 .nav-button {
@@ -32,7 +33,7 @@ nav ul {
     font-size: 1.2em;
     color: #003366;
     border: 2px solid #003366;
-    padding: 5px 10px;
+    padding: 8px 15px;
     border-radius: 5px;
     transition: background-color 0.3s, color 0.3s;
 }
@@ -42,10 +43,18 @@ nav ul {
     color: #fff;
 }
 
+main {
+    margin-top: 30px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
 .profile-img {
     display: block;
     max-width: 200px;
-    margin: 20px auto;
+    margin: 30px auto;
     border-radius: 10px;
 }
 </style>
