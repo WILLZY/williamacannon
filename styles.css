@@ -1,6 +1,7 @@
+<style>
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: 20px;
     padding: 0;
     background-color: #fff;
     color: #000;
@@ -47,3 +48,4 @@ nav ul {
     margin: 20px auto;
     border-radius: 10px;
 }
+</style>
