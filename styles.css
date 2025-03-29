@@ -13,7 +13,7 @@ header {
 }
 
 h1 {
-    font-size: 1.8em; /* Slightly larger than buttons */
+    font-size: 1.8em;
     margin: 10px 0;
 }
 
@@ -29,7 +29,7 @@ nav ul {
 .nav-button {
     text-decoration: none;
     font-size: 1.2em;
-    color: #003366; /* Rich navy */
+    color: #003366;
     border: 2px solid #003366;
     padding: 5px 10px;
     border-radius: 5px;
@@ -43,7 +43,7 @@ nav ul {
 
 .profile-img {
     display: block;
-    max-width: 200px; /* Reasonable size */
+    max-width: 200px;
     margin: 20px auto;
     border-radius: 10px;
 }
